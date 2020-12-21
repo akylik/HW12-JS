@@ -1,0 +1,84 @@
+@font-face {
+   font-family: "StarJediRounded";
+   src: url("fonts/StarJediRounded.ttf");
+}
+
+body {
+   background: url(apps.40137.68153237703585361.0e9ed8c6-014c-46b9-a70c-d7521de52007.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+   background-size: 100% 100%;
+   color: #fff;
+}
+.container {
+   width: 100%;
+}
+
+.selectEpisode {
+   max-width: 500px;
+   margin: 0 auto;
+   padding: 10px 10px 10px 10px;
+   text-align: center;
+   border: solid 2px rgb(125, 105, 240);
+   border-radius: 20px;
+}
+.options {
+   color: #b4a62b;
+   font-size: 30px;
+   font-weight: 900;
+   background-color: #080a64;
+   width: 150px;
+   display: block;
+   margin: 0 auto;
+   border-radius: 10px;
+}
+
+.container-info {
+   width: 100%;
+   margin: 0 auto;
+   text-align: center;
+}
+.people-planet-info {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   margin: 0 auto;
+}
+
+.btn-info {
+   width: 100px;
+   height: 50px;
+   font-size: 20px;
+   text-decoration: none;
+   outline: none;
+   display: inline-block;
+   padding: 10px 10px;
+   margin: 10px 10px;
+   border-radius: 10px;
+   background-color: #080a64;
+   letter-spacing: 2px;
+   color: #2bb4b4;
+   transition: 0.35s ease-in-out;
+}
+.btn-info:hover {
+   color: #010113;
+   background-color: #f3f3f7;
+}
+
+.info {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+.people,
+.planets {
+   width: 300px;
+   height: auto;
+   border-radius: 20px;
+   margin: 10px 10px;
+   padding-left: 7px;
+   color: #b4a62b;
+   border: solid 2px rgb(125, 105, 240);
+   text-align: left;
+   background-color: #080a64;
+}
