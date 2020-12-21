@@ -5,7 +5,7 @@
 
 body {
   background-color: bisque;
-  background-image: url(/img/3.jpg);
+  background-image: url("//img/3.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
