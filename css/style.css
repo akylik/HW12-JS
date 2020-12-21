@@ -1,10 +1,10 @@
 @font-face {
    font-family: "StarJediRounded";
-   src: url("fonts/StarJediRounded.ttf");
+   src: url("//fonts/StarJediRounded.ttf");
 }
 
 body {
-   background: url(apps.40137.68153237703585361.0e9ed8c6-014c-46b9-a70c-d7521de52007.jpg);
+   background: url(/img/apps.jpg);
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: 100% 100%;
@@ -80,5 +80,7 @@ body {
    color: #b4a62b;
    border: solid 2px rgb(125, 105, 240);
    text-align: left;
-   background-color: #080a64;
+   /* background-color: #080a64; */
+   background: url(/img/IMpact-of-Star-Wars-7.jpg);
+
 }
