@@ -89,5 +89,5 @@ body {
   border: solid 2px rgb(125, 105, 240);
   text-align: left;
   background-color: #080a64;
-  background-image: url(/img/1.jpg);
+  background-image: url('https://starwarsblog.starwars.com/wp-content/uploads/2020/04/star-wars-backgrounds-25.jpg');
 }
