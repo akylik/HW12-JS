@@ -4,7 +4,8 @@
 }
 
 body {
-   background-image: url(/img/apps.jpg);
+   /* background-image: url(/img/apps.jpg); */
+   background-color: bisque;
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-size: 100% 100%;
@@ -90,6 +91,6 @@ body {
    color: #b4a62b;
    border: solid 2px rgb(125, 105, 240);
    text-align: left;
-   /* background-color: #080a64; */
-   background-image: url(/img/impact.jpg);
+   background-color: #080a64;
+   /* background-image: url(/img/impact.jpg); */
 }
